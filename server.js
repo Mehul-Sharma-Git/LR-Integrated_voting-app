@@ -1,11 +1,4 @@
 /*  Config variable  */
-var config = {
-    apiDomain: 'https://api.loginradius.com',
-    apiKey: '61440426-0d89-42b2-88fe-a0375531855f',
-    apiSecret: '98132e72-41ee-4fc4-ae11-d21fae1f20eb',
-    siteName: 'voting-app',
-    apiRequestSigning: false,
-  };
   
   // Module dependencies.
   var express = require('express');
